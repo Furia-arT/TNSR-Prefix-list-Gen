@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Add some common ignore patterns for this Python projects
+prefix-gen.py
