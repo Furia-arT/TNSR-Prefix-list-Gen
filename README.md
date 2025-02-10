@@ -4,7 +4,7 @@
 
 A program to create and update prefix lists for Netgate TNSR installations.
 
-### Request
+### Requirements
 - [bgpq4](https://github.com/bgp/bgpq4)
 - Python3
 
